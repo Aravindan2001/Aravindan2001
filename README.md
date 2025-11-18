@@ -22,7 +22,8 @@ A dynamic e-commerce website built using:
 - MVC Architecture  
 
 👉 *[Project Repository](https://github.com/Aravindan2001/Gems_Jewellery_System)*  
-👉 *Live Demo (ngrok):* https://your-ngrok-link/ (active only during demo)
+👉 *Live Demo (ngrok):* [https://your-ngrok-link/](https://profederation-marcella-untormetingly.ngrok-free.dev/Gems_Jewellery_System/HomeServlet
+) (active only during demo)
 
 ---
 
