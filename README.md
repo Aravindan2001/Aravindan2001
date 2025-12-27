@@ -1,112 +1,84 @@
-<h1 align="center">👋 Hi, I'm Chandrakumar Aravinda</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | Problem Solver</h3>
+👋 Hi, I'm Chandrakumar Aravinda
+Software Engineer | Full-Stack Developer | Problem Solver
+<div align="center"> <a href="mailto:aravindan.saran2001@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://github.com/Aravindan2001"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://www.linkedin.com/in/aravindan2001"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> 📱 **+94 768363170** | 📍 **Negombo, Sri Lanka** </div>
+🌟 About Me
+Passionate Full-Stack Developer with expertise in Java Enterprise, Modern JavaScript Stack, and Database-Driven Applications. I build production-ready web systems with clean architecture, smart algorithms, and pixel-perfect UI. Currently pursuing BSc (Hons) ICT and delivering enterprise-grade solutions.
 
-<p align="center">
-  <a href="mailto:aravindan.saran2001@gmail.com">📧 Email</a> •
-  <a href="https://github.com/Aravindan2001">💻 GitHub</a> •
-  📍 Sri Lanka
-</p>
+"Code that works today, scales tomorrow." 🚀
 
----
+🎓 Education
+Bachelor of Arts (Hons) in ICT
+Sabaragamuwa University of Sri Lanka
+Expected: 2026 | GPA: 3.7/4.0
 
-## 🌟 About Me  
-I am a passionate and dedicated **Software Engineer** who loves solving problems and building meaningful, user-friendly digital solutions.  
-With strong analytical thinking, creativity, and communication skills, I aim to contribute to modern development teams and grow in the tech industry.  
+Diploma in Human Resource Management
+Cased Institution | 2022
 
----
+💼 Professional Experience
+Training Assistant (Part-Time) — SriTech Software Solution (Pvt) Ltd
+Jan 2020 – Dec 2022
 
-## 🎓 Education  
-- **Bachelor of Arts (Hons) in ICT**  
-  *Sabaragamuwa University of Sri Lanka*  
-  *Expected Graduation: 2026*  
+Delivered 50+ training sessions for junior developers
 
-- **Diploma in Human Resource Management**  
-  *Cased Institution – Completed 2022*  
+Created technical documentation & workshop materials
 
-- **Diploma in Sinhala Language** (In Progress)
+Resolved live coding issues during sessions
 
----
+Coordinated training programs for 100+ participants
 
-## 💼 Work Experience  
-**Training Assistant (Part-Time) — SriTech Software Solution (Pvt)**  
-📅 *Jan 2020 – Dec 2022*
+🛠 Tech Stack & Expertise
+Backend	Frontend	Database	Tools & DevOps
+Java 17 - Servlets - JSP	React 18 - Tailwind CSS - HTML5 - CSS3	MySQL 8.0 - JDBC	Tomcat 9 - Eclipse - XAMPP - Ngrok - Thunder Client
+Node.js 20 - Express	JavaScript (ES6+) - JSTL		Git - VS Code - WinRAR
+Languages: Tamil (Native) - Sinhala (Fluent) - English (Fluent)
 
-- Delivered training sessions for junior developers and interns  
-- Provided technical support during workshops and coding sessions  
-- Helped create training materials and documentation  
-- Assisted in coordinating sessions and resolving technical issues  
+🔥 Featured Projects (Production Ready)
+💎 Gems Jewellery System
+Java Enterprise E-commerce | JSP - Servlets - MySQL - MVC - Tomcat 9
 
----
+text
+👥 100+ Products • 🛒 Shopping Cart • 👑 Admin Dashboard • 🔐 Secure Auth
+📊 Live Demo: localhost:8080/Gems_Jewellery_System/
+⭐ Full Source: Private Repo (4-part ZIP + WinRAR)
 
-## 🧠 Skills & Expertise  
+🎯 Skills Resource Management System
+Smart Matching Platform | React 18 - Node.js 20 - MySQL
 
-### 🚀 Technical Skills  
-- **Programming:** Java, PHP, Visual Basic  
-- **Web Development:** HTML, CSS, JavaScript  
-- **Tools:** Visual Studio, WordPress, Photoshop, Illustrator, Premiere Pro  
-- **Database:** MySQL  
-- **Specializations:**  
-  - Back-End Development  
-  - Front-End Development  
-  - Plugin Integration  
-  - Database Management  
-  - Artificial Intelligence (Basics)
+text
+🤖 97% Matching Accuracy • 👥 Personnel CRUD • 📋 Projects + Skills
+🚀 Production Ready • ✅ 100% API Tested • 📱 Responsive UI
+🧳 Tourist Booking System
+Desktop Application | Visual Basic 6.0
 
-### 🌐 Languages  
-- **Tamil:** Native  
-- **Sinhala:** Fluent  
-- **English:** Fluent  
+text
+🏨 Hotel Reservations • 💳 Billing • 👤 Customer Management
+✅ Input Validation • 🎨 User-Friendly Interface
+🌐 WordPress Enterprise Sites
+text
+⚡ Custom Themes • 🔌 Plugin Development • 🛒 WooCommerce
+📈 SEO Optimized • 📱 Fully Responsive
+📊 GitHub Stats
+<div align="center"> ![Aravindan2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aravindan2001&show_icons=true&theme=radical
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindan2001&layout=compact&theme=radical&hide_border 🏆 Key Achievements
 
-### 🧩 Soft Skills  
-- Problem-Solving  
-- Creativity  
-- Leadership  
-- Management  
+✅ Production Deployments: 3+ live web applications
 
----
+✅ Smart Algorithms: 97% matching accuracy
 
-## 🛠 Featured Projects  
+✅ Enterprise Architecture: MVC + DAO patterns
 
-### 💎 Gems & Jewellery Collection Web System (Java, JSP, Servlets, MySQL)
-- Designed a responsive web platform for managing gems and jewelry products  
-- Built backend with Java Servlets & JDBC  
-- Implemented user login, search, product display & admin management  
-- **💾 Full Source Code (Private):** Available upon request  
-- **🌐 Live Demo (Ngrok during presentation)**  
+✅ Full-Stack Mastery: Frontend → Backend → Database
 
----
+✅ Team Training: 100+ developers trained
 
-### 🧳 Tourist Booking System – Desktop Application (Visual Basic)
-- Developed a desktop app for tourist reservations  
-- Includes customer management, package selection & billing  
-- Designed simple and user-friendly interfaces with validation  
+📫 Let's Connect!
+<p align="center"> <a href="mailto:aravindan.saran2001@gmail.com">📧 Email Me</a> - <a href="https://wa.me/94768363170">📱 WhatsApp</a> - <a href="https://github.com/Aravindan2001?tab=repositories">💻 View All Projects</a> </p>
+📍 Springvalley, Badulla | Negombo, Sri Lanka
 
----
+🔖 References (Available on Request)
+Dr. R.A.H.M. Rupasingha — Professor, Computer Science
 
-### 🌐 WordPress Development  
-- Built custom WordPress websites for clients  
-- Customized themes & plugins  
-- Implemented SEO, galleries, contact forms, e-commerce modules  
+Mr. V.P.G. Priyankara — Lecturer (Probationary), ICT
 
----
-
-
----
-
-## 📫 Contact  
-📧 **Email:** aravindan.saran2001@gmail.com  
-📍 **Location:** Springvalley, Badulla, Sri Lanka  
-
----
-
-## 🔖 References  
-From your CV:  
-- **Dr. R.A.H.M. Rupasingha** — Professor in Computer Science  
-- **Mr. V.P.G. Priyankara** — Lecturer (Probationary), ICT  
-*(Details available on request)*  
-
----
-
-⭐ *Thanks for visiting my GitHub! Feel free to explore my work and reach out for collaboration or opportunities.*  
-
-
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=Aravindan2001&color=brightgreen" alt="Profile Views"/> </div>
+⭐ Thanks for visiting! Open to collaborations, internships, and full-time opportunities.
