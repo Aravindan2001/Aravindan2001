@@ -44,7 +44,7 @@ text
 
 | Degree/Certification | Institution | Status | GPA/Grade |
 |---------------------|-------------|--------|-----------|
-| **BSc (Hons) ICT** | Sabaragamuwa University of Sri Lanka | Expected 2026 | **3.7/4.0** |
+| **BSc (Hons) ICT** | Sabaragamuwa University of Sri Lanka | Expected 2026 | **3.6/4.0** |
 | **Diploma in HR Management** | Cased Institution | **Completed 2022** | **Distinction** |
 
 ---
