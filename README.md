@@ -32,7 +32,8 @@
 **Core Competencies:**
 Java Enterprise: Servlets - JSP - JDBC - MVC - DAO Pattern
 Modern Web: React 18 - Node.js 20 - Tailwind CSS - ES6+
-Database: MySQL 8.0 - Relational Design - Optimization
+Database: MySQL 8.0 - Relational Design - Query Optimization
+API Testing: Postman - Thunder Client - 100% Coverage
 Deployment: Tomcat 9 - XAMPP - Ngrok - Production Ready
 
 text
@@ -78,7 +79,13 @@ I --> K[JDBC]
 
 L[Tools] --> M[Tomcat 9]
 L --> N[Eclipse/XAMPP]
-L --> O[Git/Ngrok/Thunder Client]
+L --> O[Git/Ngrok]
+L --> P[Postman/Thunder Client]
+
+style A fill:#ff6b6b
+style E fill:#4ecdc4
+style I fill:#45b7d1
+style L fill:#f9ca24
 text
 
 **Languages:** Tamil (Native) | Sinhala (Fluent) | English (Fluent)
