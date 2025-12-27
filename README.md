@@ -27,17 +27,17 @@
 
 ## 🚀 Professional Summary
 
-**Full-Stack Software Engineer** specializing in **Enterprise Java Applications** and **Modern JavaScript Stack**. Proven track record of delivering **production-ready e-commerce systems**, **smart matching algorithms (97% accuracy)**, and **responsive web platforms**. 
+**Full-Stack Software Engineer** with proven expertise in **Enterprise Java** and **Modern JavaScript** technologies. Delivered **production-ready** e-commerce platforms, **97% accurate smart matching algorithms**, and **responsive web applications** following industry best practices.
 
 **Core Competencies:**
-- **Java Enterprise** (Servlets, JSP, JDBC, MVC, DAO)
-- **Modern Web** (React 18, Node.js 20, Tailwind CSS)
-- **Database Design** (MySQL 8.0, Relational Modeling)
-- **Production Deployment** (Tomcat 9, XAMPP, Ngrok)
+Java Enterprise: Servlets - JSP - JDBC - MVC - DAO Pattern
+Modern Web: React 18 - Node.js 20 - Tailwind CSS - ES6+
+Database: MySQL 8.0 - Relational Design - Optimization
+Deployment: Tomcat 9 - XAMPP - Ngrok - Production Ready
 
-> **"Scalable code. Reliable systems. Exceptional user experience."**
+text
 
----
+> **Scalable architecture. Production-grade reliability. Exceptional UX.**
 
 ## 🎓 Education & Certifications
 
